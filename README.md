@@ -1,9 +1,9 @@
 ## Installaton 
 
 <code>
-  git clone https://github.com/rifkytech/reactjs-template.git && cd reactjs-template
-  npm install
-  npm start
+  git clone https://github.com/rifkytech/reactjs-template.git && cd reactjs-template <br>
+  npm install <br>
+  npm start <br>
 </code>
 
 ## Akses
