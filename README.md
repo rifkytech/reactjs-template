@@ -7,5 +7,5 @@
 </pre>
 
 ## Akses
-Open Browser https://localhost:3000
+Open Browser http://localhost:3000
 
