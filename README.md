@@ -1,4 +1,4 @@
-## Installaton 
+## PoC
 
 <pre>
   git clone https://github.com/rifkytech/reactjs-template.git && cd reactjs-template
